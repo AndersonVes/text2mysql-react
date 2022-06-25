@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Latin&family=Gothic+A1:wght@100;200;300;400;500;600&display=swap');
+
+body {
+    background: #333;
+    color: #fff;
+
+    font-family: 'Anek Latin', sans-serif;
+    font-family: 'Gothic A1', sans-serif;
+}
+
+.App {
+    width: min-content;
+    margin: 0 auto;
+    text-align: center;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+p {
+    margin-top: 50px;
+    font-style: italic;
+}
+
+
